@@ -2,3 +2,4 @@
 
 var msg = "Hello World!";
 var msg2 = "Hi again";
+var msg3 = "A row";
